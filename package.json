@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "proxy": "https://noteapp-backend-xle3.onrender.com",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
