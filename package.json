@@ -5,6 +5,9 @@
   "main": "index.js",
   "type": "module",
   "proxy": "https://noteapp-backend-xle3.onrender.com",
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "scripts": {
     "start": "node index.js"
   },
